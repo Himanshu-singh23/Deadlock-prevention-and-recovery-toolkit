@@ -63,7 +63,7 @@ pip install numpy matplotlib networkx
 - [Banker’s Algorithm - Wikipedia](https://en.wikipedia.org/wiki/Banker%27s_algorithm)
 - [Deadlock Prevention in Operating Systems](https://www.geeksforgeeks.org/deadlock-prevention/)
 
-## License
+
 
 
 
